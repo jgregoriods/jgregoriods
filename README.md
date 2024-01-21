@@ -6,4 +6,4 @@
 
 🚀 Experienced in building data models and interactive web applications.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jgregoriods) | [X](https://www.x.com/jonasgdes)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jgregoriods) | [X](https://www.x.com/jonasgdes) | [Website](jonasgregorio.com)
