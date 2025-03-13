@@ -1,9 +1,7 @@
 ### Hi, I'm Jonas 👋
 
-👨‍💻 I'm a versatile developer with a background in computational modeling and web development.
+👨‍💻 I enjoy building things with code, whether it's data models or interactive applications. Currently, I focus on backend development.
 
-:computer: Proficient in Python and JavaScript.
+🐍 Mostly working with Python, but I also use JavaScript when needed.
 
-🚀 Experienced in building data models and interactive web applications.
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jgregoriods) | [Website](https://www.jonasgregorio.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jgregoriods) | [Website](https://www.jonasgregorio.com)
