@@ -4,4 +4,4 @@
 
 🐍 Mostly working with Python, but I also enjoy JavaScript.
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jgregoriods) | [Website](https://www.jonasgregorio.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jgregoriods)
